@@ -20,5 +20,24 @@ body {
   font-family: "Helvetica", sans-serif;
 }
 
+.Apple-pie-text{
+box-sizing: border-box;
+font-size: 16px;
+
+
+}
+
+.granny-recipe{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  flex-wrap: wrap;
+  margin: 100px;
+  font-size: 100px;;
+  height: 300px;
+}
+
+
 /* STYLES */
 /* Write your CSS below */
